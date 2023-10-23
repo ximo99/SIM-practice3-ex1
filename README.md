@@ -1,5 +1,5 @@
 ﻿# Simulation: practice 3, exercice 1.
-Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. April 2022. Practice 1, exercise 1. Rating 8. An inclined plane had to be simulated with a mass, also inclined, subject to the force of two springs, using numerical integration methods.
+Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. April 2022. Practice 1, exercise 1. Rating 8. A French billiards must be simulated using a velocity-based collision model.
 
 🎞️ Video with the result: [https://www.youtube.com/watch?v=xEUnrd95nZI](https://www.youtube.com/watch?v=f_A-oSXQdhY)
 

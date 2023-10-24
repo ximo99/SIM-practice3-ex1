@@ -1,5 +1,5 @@
 ﻿# Simulation: practice 3, exercice 1.
-Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. April 2022. Practice 1, exercise 1. Rating 8. A French billiards must be simulated using a velocity-based collision model.
+Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. April 2022. Practice 3, exercise 1. Rating 8. A French billiards must be simulated using a velocity-based collision model.
 
 🎞️ Video with the result: [https://www.youtube.com/watch?v=xEUnrd95nZI](https://www.youtube.com/watch?v=f_A-oSXQdhY)
 
